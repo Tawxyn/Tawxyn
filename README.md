@@ -1,5 +1,4 @@
 <h3 align="center">Welcome 👋</h3>
-<br>
 
 Hello, I'm Mike, a senior at Sac State majoring in Computer Science. I'm passionate about software development and solving real-world problems, and I'm always eager to learn new technologies and create impactful solutions.
 
