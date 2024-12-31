@@ -3,7 +3,7 @@
 Hello, I'm Mike, a senior at Sac State majoring in Computer Science. I'm passionate about software development and solving real-world problems, and I'm always eager to learn new technologies and create impactful solutions.
 
 ### Tech Stack  
-I mostly work with **GoLang**, and **Python** in the backend. Recently, I have been tinkering with **Rust**, and I have dabled with many languages over the many courses I have taken in university.
+I mostly work with **GoLang**, and **Python** in the backend. Recently, I have been tinkering with **Rust**, and I have dabbled with many languages over the many courses I have taken in university.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 ![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
