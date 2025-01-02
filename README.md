@@ -27,9 +27,9 @@ I mostly work with **GoLang**, and **Python** in the backend. Recently, I have b
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#)
 
-### Featured Projects  
-- **[GoStockScraper](https://github.com/Tawxyn/GoStockScraper)**: A financial data scraper built with Go and PostgreSQL, extracting metrics from Yahoo Finance for analysis.  
+### Featured Projects
 - **[3D K-Means Visualizer](https://github.com/Tawxyn/3D-Cluster-Visualizer)**: A Python tool for generating and visualizing 3D data clusters with Matplotlib using a built from scratch K-Means algorithm.
+- **[GoStockScraper](https://github.com/Tawxyn/GoStockScraper)**: A financial data scraper built with Go and PostgreSQL, extracting metrics from Yahoo Finance for analysis.  
 
 <h3 align="center">Contact Me</h3>
 
