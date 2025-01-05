@@ -31,6 +31,9 @@ I mostly work with **GoLang**, and **Python** in the backend. Recently, I have b
 - **[3D K-Means Visualizer](https://github.com/Tawxyn/3D-Cluster-Visualizer)**: A Python tool for generating and visualizing 3D data clusters with Matplotlib using a built from scratch K-Means algorithm.
 - **[GoStockScraper](https://github.com/Tawxyn/GoStockScraper)**: A financial data scraper built with Go and PostgreSQL, extracting metrics from Yahoo Finance for analysis.  
 
+### Current Development
+I’m currently learning Rust and exploring its capabilities by working on a private repo WebAssembly-based 2D physics sandbox project. The game involves placing blocks, spilling sand, and simulating physics like falling and collision detection.
+
 <h3 align="center">Contact Me</h3>
 
 <div align="center">
