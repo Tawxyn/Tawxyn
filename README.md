@@ -32,8 +32,9 @@ I mostly work with **GoLang**, and **Python** in the backend. Recently, I have b
 - **[GoStockScraper](https://github.com/Tawxyn/GoStockScraper)**: A financial data scraper built with Go and PostgreSQL, extracting metrics from Yahoo Finance for analysis.  
 
 ### Current Development
-I’m currently learning Rust and exploring its capabilities by working on a private repo WebAssembly-based 2D physics sandbox project. The game involves placing blocks, spilling sand, and simulating physics like falling and collision detection.
-
+I am currently learning Rust through engaging projects, focusing on exploring its core concepts and building practical tools to streamline my development workflow.
+- oxi- A tool to search for answers, bugs, and solutions from multiple sources such as Stack Overflow and GitHub.
+- rustbox- A sandbox game project built in Rust to simulate basic physics and gameplay using WebAssembly.
 <h3 align="center">Contact Me</h3>
 
 <div align="center">
