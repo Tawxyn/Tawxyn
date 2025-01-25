@@ -34,7 +34,7 @@ I mostly work with **GoLang**, and **Python** in the backend. Recently, I have b
 ### Current Development
 I am currently learning Rust through engaging projects, focusing on exploring its core concepts and building practical tools to streamline my development workflow.
 - oxi- A command-line tool that allows programmers to quickly search for programming-related solutions across platforms like Stack Overflow and Docs directly within the terminal.
-- rustbox- A sandbox game project built in Rust to simulate basic physics and gameplay using WebAssembly.
+
 <h3 align="center">Contact Me</h3>
 
 <div align="center">
