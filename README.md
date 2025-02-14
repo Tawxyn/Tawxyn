@@ -31,10 +31,8 @@ I mostly work with **GoLang**, and **Python** in the backend. Recently, I have b
 - **[GoStockScraper](https://github.com/Tawxyn/GoStockScraper)**: A financial data scraper built with Go and PostgreSQL, extracting metrics from Yahoo Finance for analysis.  
 
 ### Current Development
-I am currently learning Rust through engaging projects, focusing on exploring its core concepts and building practical tools to streamline my development workflow.
-- oxi- A command-line tool that allows programmers to quickly search for programming-related solutions across platforms like Stack Overflow and Docs directly within the terminal.
+- Currently experimenting with Pygame to learn new skills and explore interactive programming.
 
-- kybos-engine- Kybos Engine is a personal project driven by my curiosity about 3D graphics and my ongoing journey to learn Rust. It renders a 3D cube in a terminal using matrix transformations and perspective projection, serving as a foundation for further exploration.
 
 <h3 align="center">Contact Me</h3>
 
