@@ -29,7 +29,7 @@ I mostly work with **GoLang**, and **Python** in the backend. Recently, I have b
 
 ### Featured Projects
 - **[3D K-Means Visualizer](https://github.com/Tawxyn/3D-Cluster-Visualizer)**: A Python tool for generating and visualizing 3D data clusters with Matplotlib using a built from scratch K-Means algorithm.
-- ****[Kybos-Engine]**(https://github.com/Tawxyn/kybos-engine)**: Rust project that renders a 3D vector of points to the terminal in 2D with a transformation matrix using ASCII 2.
+- **[Kybos-Engine]**(https://github.com/Tawxyn/kybos-engine)**: Rust project that renders a 3D vector of points to the terminal in 2D with a transformation matrix using ASCII 2.
 - **[GoStockScraper](https://github.com/Tawxyn/GoStockScraper)**: A financial data scraper built with Go and PostgreSQL, extracting metrics from Yahoo Finance for analysis.  
 
 ### Current Development
