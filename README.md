@@ -1,7 +1,7 @@
 <h3 align="center">Welcome 👋</h3>
   
 ### Tech Stack  
-I mostly work with **GoLang**, and **Python** in the backend. Recently, I have been tinkering with **C/C++**, and **Rust**. Over the years, I’ve dabbled in a variety of languages through coursework and personal projects.
+I mostly work with **C#**, and **Rust**.
 
 ![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
